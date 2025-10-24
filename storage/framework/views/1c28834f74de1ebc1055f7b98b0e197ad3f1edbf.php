@@ -1,0 +1,1 @@
+<p class="mt-5 mb-3 text-muted">&copy; <?php echo e(date('Y')); ?></p><?php /**PATH D:\Praktek\login-and-registration\resources\views/auth/partials/copy.blade.php ENDPATH**/ ?>
